@@ -1,11 +1,3 @@
-### Hi there, I'm Alif 👋
-
-I'm a fullstack developer based in Bangladesh and I'm very passionate and dedicated to my work.
-
-Join my Discord: [Click here](https://discord.gg/2xcvqQ6JgC)
-
----
-
 # Discord
 
 <p align="center">
